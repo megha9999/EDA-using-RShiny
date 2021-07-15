@@ -5,5 +5,5 @@ Data Visualisation of Fake news dataset
 The  dataset is obtained from Kaggle.
 
 **Visualisation**:
-Graphs and wordclouds are made and dispalyed using RShiny
+Graphs and wordclouds are made and displayed using RShiny
 
